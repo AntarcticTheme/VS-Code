@@ -3,6 +3,7 @@
   "displayName": "Antartic Theme",
   "description": "Antartic Theme for VSCode",
   "version": "0.0.1",
+  "publisher": "DariusBarbus",
   "engines": {
     "vscode": "^1.84.0"
   },
