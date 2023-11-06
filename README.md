@@ -1,4 +1,4 @@
-# antartic-theme-vscode README
+# antarctic-theme-vscode README
 
 
 
