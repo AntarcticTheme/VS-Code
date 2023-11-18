@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#9b4f8c"
+        "foreground": "#c47cb5"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#962828"
+        "foreground": "#ad1818"
       }
     },
     {
