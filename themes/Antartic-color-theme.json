@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#ad4d9b"
+        "foreground": "#9b4f8c"
       }
     },
     {
@@ -1935,9 +1935,9 @@
     "editor.rangeHighlightBackground": "#f3fbff",
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#1d2d33",
-    "editor.wordHighlightStrongBackground": "#6eb6d170",
+    "editor.wordHighlightStrongBackground": "#95a5ab70",
     "editor.wordHighlightStrongBorder": "#b62f2f00",
-    "editor.wordHighlightBackground": "#baecff",
+    "editor.wordHighlightBackground": "#95a5ab70",
     "editor.wordHighlightBorder": "#cf181800",
     "editor.lineHighlightBackground": "#e1eaef",
     "editor.lineHighlightBorder": "#884b4b00",
