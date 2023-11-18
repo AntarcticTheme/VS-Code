@@ -1,7 +1,7 @@
 {
-  "name": "antartic-theme-vscode",
-  "displayName": "Antartic Theme",
-  "description": "Antartic Theme for VSCode",
+  "name": "antarctic-theme-vscode",
+  "displayName": "Antarctic Theme",
+  "description": "Antarctic Theme for VSCode",
   "version": "0.0.1",
   "publisher": "DariusBarbus",
   "engines": {
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Antartic",
+        "label": "Antarctic",
         "uiTheme": "vs",
         "path": "./themes/Antartic-color-theme.json"
       }
