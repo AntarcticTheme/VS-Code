@@ -6,5 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [0.0.1] - 17-11-2023
+## [0.0.1-alpha] - 17-11-2023
 - Initial release
+- Still lots of bugs
+- In active development

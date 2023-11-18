@@ -1,6 +1,8 @@
 # Antarctic Visual Studio Code
 Antarctic for Visual Studio Code.
 
+Please refer to the [change log](https://github.com/AntarcticTheme/VS-Code/blob/main/CHANGELOG.md) for updates on our most recent modifications.
+
 # Under active develpment 
 This will change in the nearby future 
 
