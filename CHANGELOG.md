@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.2-alpha] - 06-01-2024
+- Fix errors in terminal
+
 ## [0.0.1-alpha] - 17-11-2023
 - Initial release
 - Still lots of bugs

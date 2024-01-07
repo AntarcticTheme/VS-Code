@@ -2,7 +2,7 @@
   "name": "antarctic-theme-vscode",
   "displayName": "Antarctic Theme",
   "description": "Antarctic Theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DariusBarbus",
   "engines": {
     "vscode": "^1.84.0"
